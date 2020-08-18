@@ -54,10 +54,14 @@
     margin: 0 auto;
     text-align: center;
   }
+  .main p{
+      margin-bottom:10px ;
+  }
   .form-container{
       padding: 20px;
   }
   .purple{
+      
       margin: 0 auto;
   }
 }
